@@ -2,11 +2,12 @@
 
 ## Tópicos:
 
-* [Sobre](#Sobre)
+* [Sobre](Sobre)
 * [Apresentação do Projeto](#apresentação-do-projeto)
 * [Funcionalidades do Projeto](#️funcionalidades-do-projeto)
-* [Como usar](#como-usar)
+* [Como usar](como-usar)
 * [Linguagens usadas](#️linguagens-usadas)
+* [Link do Projeto](#link-do-projeto)
 * [Extra](Extra)
 * [Time](#time)
 
@@ -48,6 +49,9 @@
 
 - No projeto tem um rodapé com o nome da desenvolvedora e o ano do deselvolvimento do projeto, mas para ver isso na página web do projeto tem que rolar um pouco a barra lateral do navegador.
 
+## 🔗Link do Projeto:
+<a href= https://challenge-decodificador-de-texto-rouge.vercel.app/>Decodificador de Texto
+
 ## 💻Time:
 
 ### Autores:
@@ -55,7 +59,7 @@
 <strong>1. Mayara Rodrigues da Silva.</strong>
 
 <div>
-<a href= https://github.com/MRodrigues414 >Github
+<a href= https://github.com/MRodrigues414>Github
 <div>
 
 <a href= https://linkedin.com/in/mayara-rodrigues1304>LinkedIn
