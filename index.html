@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/style.css">
+    <title>Challenge Encriptador</title>
+</head>
+<body class="corpo">
+    <header class="cabecalho">
+        <img class="logoAlura" src="./assets/html1.png" alt="logo da Alura">
+    </header>
+    
+    <main class="principal">
+        <section class="secaoum">
+            <label for="textoEntrada">
+            <textarea class="text-area" id="textoEntrada" cols="30" rows="6" placeholder="Digite seu texto"></textarea>
+    
+            <div class="aviso">
+                <div>
+                    <p class="exclamacao">!</p>
+                </div>
+                
+                <div>
+                    <h6 class="aviso__notificacao">Apenas letras minúsculas e sem acento.</h6>
+                </div>
+            </div>
+    
+            <div class="botoes">
+                <input type="button" class="btn__encriptar" id="btnEncriptar" value="Criptografar"></button>
+                <input type="button" class="btn__desencriptar" id="btnDesencriptar" value="Descriptografar"></button>
+            </div>
+
+        </section>
+            
+        <section class="secao__dois">
+            <label for="textoModificado"></label>
+                <textarea class="texto__modificado" id="textoModificado" cols="15" rows="14" aria-label="Digite seu texto aqui"></textarea>
+
+            <div class="mensagem">
+                    <h5 class="tx" id="tituloMensagem">Nenhuma mensagem encontrada</h5>
+                    <p class="p" id="textoMensagem">Digite um texto que você deseja criptografar ou descriptografar</p>
+            </div>
+
+            <div>
+                <input type="button" class="btn__copiar" id="btnCopiar" value="Copiar" onclick="Copiar()" ></button>
+            </div>
+
+        </section>
+
+    </main>
+    <footer class="rodape"> Desenvolvido por MAYARA R. SILVA, 2024 </footer>
+    <script src="script.js"></script>
+
+</body>
+</html>
