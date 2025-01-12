@@ -2,9 +2,10 @@
 
 ## Tópicos:
 
-*[Sobre](#🏷️sobre)
+*[Sobre](#🏷sobre)
 *[Apresentaçao](#apresentação-do-projeto)
 *[Funcionalidade](#funcionalidades-do-projeto)
+*[Como usar](#como-usar)
 
 ## 🏷️Sobre:
 
