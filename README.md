@@ -2,8 +2,9 @@
 
 ## Tópicos:
 
-*[sobre](#sobre)
-*[apresentaçao](#apresentação-do-projeto)
+*[Sobre](#🏷️sobre)
+*[Apresentaçao](#apresentação-do-projeto)
+*[Funcionalidade](#funcionalidades-do-projeto)
 
 ## 🏷️Sobre:
 
