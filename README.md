@@ -1,13 +1,5 @@
 # Projeto Decodificador de Texto.
 
-## Tópicos:
-
-*[Sobre](#sobre)
-*[Apresentaçao](#apresentação-do-projeto)
-*[Funcionalidade](#funcionalidades-do-projeto)
-*[Como usar](#como-usar)
-*[Linguagem](#linguagens-usadas)
-
 ## 🏷️Sobre:
 
 ### Projeto de um Challenge realizado para a conclusão do curso de Iniciante em programação da alura.
