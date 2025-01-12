@@ -2,15 +2,6 @@
 
 ## Tópicos:
 
-* [Sobre](#sobre)
-* [Apresentação do Projeto](#apresentação-do-projeto)
-* [Funcionalidades do Projeto](#️funcionalidades-do-projeto)
-* [Como usar](#como-usar)
-* [Linguagens usadas](#️linguagens-usadas)
-* [Link do Projeto](#link-do-projeto)
-* [Extra](#extra)
-* [Time](#time)
-
 ## 🏷️Sobre:
 
 ### Projeto de um Challenge realizado para a conclusão do curso de Iniciante em programação da alura.
